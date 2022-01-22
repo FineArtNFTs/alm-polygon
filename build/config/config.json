@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x92d000B26324e2d453623a0D7016A4335fB35c82",
+  "SCAN_LINK": "https://polygonscan.com/token/0x92d000b26324e2d453623a0d7016a4335fb35c82",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "All Lives Matter Official NFTs",
+  "SYMBOL": "ALM",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/all-lives-matter-official-nfts",
+  "SHOW_BACKGROUND": true
+}
